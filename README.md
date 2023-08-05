@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello! I'm Jay 👋
 
-<!--
-**epikplant/epikplant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer, currently learning JavaScript and Java. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+
+- Python
+- JavaScript
+- Java
+
+### Frameworks & Libraries
+
+- React
+- Node.js
+- Spring Boot
+
+### Databases
+
+- MySQL
+
+### Tools & Others
+
+- Git
+- VSCode
+
+## 🌱 I'm Currently Learning
+
+- Building web applications with React
+- Java development using Spring Boot
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=epikplant&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+Feel free to explore my projects and repositories related to JavaScript and Java. If you find something interesting or have any feedback, I'd love to hear from you! 😊
