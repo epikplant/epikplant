@@ -5,7 +5,7 @@ I'm a passionate software developer, currently learning JavaScript and Java. Wel
 ## 🔧 Technologies & Tools
 
 ### Programming Languages
-[!](https://skillicons.dev/icons?i=js,ts,py,)](https://skillicons.dev)
+[!(https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
 ### Databases
 
 - MySQL 💻
