@@ -5,33 +5,21 @@ I'm a passionate software developer, currently learning JavaScript and Java. Wel
 ## 🔧 Technologies & Tools
 
 ### Programming Languages
-
-- Python
-- JavaScript
-- Java
-
-### Frameworks & Libraries
-
-- React
-- Node.js
-- Spring Boot
-
+(https://skillicons.dev/icons?i=js,ts,py,)](https://skillicons.dev)
 ### Databases
 
-- MySQL
-
+- MySQL 💻
+- Mongo DB 🍃
+  
 ### Tools & Others
 
-- Git
-- VSCode
+- Git ⬇️
+- VSCode 💪
 
 ## 🌱 I'm Currently Learning
 
-- Building web applications with React
-- Java development using Spring Boot
+- TLS Spoofing with Python
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydnepic&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-Feel free to explore my projects and repositories related to JavaScript and Java. If you find something interesting or have any feedback, I'd love to hear from you! 😊
