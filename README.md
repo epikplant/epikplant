@@ -1,6 +1,6 @@
 # Hello! I'm Jay 👋
 
-I'm a passionate software developer, currently learning JavaScript and Java. Welcome to my GitHub profile!
+I'm a passionate software developer, and yeah i'm not the best programmer in the world.
 
 ## 🔧 Technologies & Tools
 
@@ -12,11 +12,17 @@ I'm a passionate software developer, currently learning JavaScript and Java. Wel
 
 - MySQL 💻
 - Mongo DB 🍃
-  
+
+[![My Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
+
 ### Tools & Others
 
 - Git ⬇️
 - VSCode 💪
+
+[![My Tools](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
+
 
 ## 🌱 I'm Currently Learning
 
