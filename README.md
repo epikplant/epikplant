@@ -6,7 +6,7 @@ I'm a passionate software developer, currently learning JavaScript and Java. Wel
 
 ### Programming Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html)](https://skillicons.dev)
 
 ### Databases
 
